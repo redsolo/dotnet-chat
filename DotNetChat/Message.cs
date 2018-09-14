@@ -1,0 +1,6 @@
+﻿namespace DotnetChat
+{
+    class Message
+    {
+    }
+}
